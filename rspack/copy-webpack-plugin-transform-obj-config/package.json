@@ -1,0 +1,13 @@
+{
+  "name": "example-copy-webpack-plugin_5-transform-obj-config",
+  "private": true,
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "devDependencies": {
+    "@rspack/cli": "1.2.0-alpha.0",
+    "@rspack/core": "1.2.0-alpha.0",
+    "copy-webpack-plugin": "^12.0.2"
+  }
+}
